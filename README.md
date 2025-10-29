@@ -31,26 +31,22 @@ I’m a Computer Engineering Junior at Georgia Tech passionate about **system so
 ### 🪐 **FPGA Logic Optimization Framework**
 Optimized FPGA logic synthesis for open-source toolchain **SymbiFlow**, reducing synthesis time by **15%**.  
 Enhanced automated test coverage by **30%** using custom Python verification scripts and continuous integration testing.  
-> _Built around the same performance and reliability principles Core OS engineers apply to Apple silicon bring-up._
 
 ---
 
 ### ⚡ **Embedded Phone-Lock System**
 Developed an ESP32-based phone lock interface with **IMU sensor, uLCD, and capacitive keypad**.  
 Implemented FreeRTOS threads for real-time motion detection, display updates, and authentication.  
-> _Mirrors Core OS real-time task management and thread synchronization concepts._
 
 ---
 
 ### 🔧 **System Performance Profiler**
 Created a lightweight profiling tool to monitor CPU cycles and task latency on microcontrollers.  
 Used **C/C++** and **hardware timers** to log context-switch times and optimize scheduler parameters.  
-> _Demonstrates understanding of system scheduling, timing, and low-level performance tuning._
-
 
 ---
 
 ## 📫 Connect
 - **GitHub:** [github.com/emrealiya](https://github.com/emrealiya)
-- **LinkedIn:** [linkedin.com/in/emrealiya](https://linkedin.com/in/emrealiya)
+- **LinkedIn:** [linkedin.com/in/emrealiya](https://www.linkedin.com/in/emre-aliya-b7244a218/))
 - **Email:** ealiya2018@gmail.com
