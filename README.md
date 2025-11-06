@@ -1,8 +1,8 @@
 # Hello, I'm Emre Aliya
 
-I'm looking for an apple internship on the CoreOS team along with the NSI Program partnership between Georgia Tech and Apple.
+I'm looking for internships for both Software Engineering and Hardware Engineering.
 
-I’m a Computer Engineering Junior at Georgia Tech passionate about **system software, hardware-software integration, and operating system performance**.  
+I’m a Computer Engineering Junior at Georgia Tech passionate about **system engineering, hardware-software integration, and operating system performance**.  
 
 ---
 
